@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "A dictionary of common English words, accessible as an Elm list",
-    "repository": "https://github.com/msszczep/EnglishStopWords.git",
+    "repository": "https://github.com/msszczep/english-stop-words.git",
     "license": "BSD3",
     "source-directories": [
         "src"
